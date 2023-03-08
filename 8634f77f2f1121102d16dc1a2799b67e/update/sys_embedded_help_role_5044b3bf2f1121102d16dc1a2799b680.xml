@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_75408_testing_12.tester" name="x_75408_testing_12.tester">9044ff3f2f1121102d16dc1a2799b6be</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-08 00:48:14</sys_created_on>
+        <sys_id>5044b3bf2f1121102d16dc1a2799b680</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9044ff3f2f1121102d16dc1a2799b6be</sys_name>
+        <sys_package display_value="testing 123" source="x_75408_testing_12">8634f77f2f1121102d16dc1a2799b67e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testing 123">8634f77f2f1121102d16dc1a2799b67e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5044b3bf2f1121102d16dc1a2799b680</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-08 00:48:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
